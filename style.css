@@ -134,7 +134,7 @@ body{
 }
 
 .right-part .banner .lastname{
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 400;
     letter-spacing: 0.5rem;
     margin-top: -1rem;
@@ -173,10 +173,10 @@ body{
 }
 
 .work-container .work .work-text{
-    color: #737373;
-    font-size: 0.8rem;
-    text-align: justify;
-    line-height: 1rem;
+    font-size: 0.7rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: #4D4D4F;
 }
 
 .references-container .references{
