@@ -17,7 +17,7 @@
 }
 
 body{
-    background-color: #EBECF0;
+    background-color: #F4F4F4;
 }
 
 .main-section{
@@ -32,7 +32,7 @@ body{
 .main-section .left-part{
     width: 40%;
     height: 100%;
-    background-color: #F4F4F4;
+    background-color: #CCB494;
     padding: 2.8rem;
 }
 
@@ -44,7 +44,7 @@ body{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: .5rem solid white;
+    border: .5rem solid #664229;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
@@ -53,22 +53,22 @@ body{
     font-size: 1.4rem;
     text-transform: uppercase;
     padding: 0.6rem;
-    background-color: #444440;
+    background-color: #664229;
     color: white;
     text-align: center;
     margin: 1.4rem 0;
 }
 
 .contact-container{
-    margin-bottom: 2.2rem;
+    margin-bottom: 0rem;
 }
 
 .contact-container .contact-list{
     display: flex;
     gap: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
     font-family: 'Lato', sans-serif;
-    color: #444440;
+    color: #664229;
     font-size: 1rem;
 }
 
@@ -79,7 +79,7 @@ body{
 
 .education-container .course{
     margin-bottom: 1rem;
-    color: #414042;
+    color: #664229;
 }
  
 .education-container .education-title{
@@ -114,7 +114,7 @@ body{
 }
 
 .skills-container .skill .right-skill .inner-layer{
-    background-color: #3D3D3D;
+    background-color: #987554;
     height: 100%;
     border-radius: inherit;
 }
@@ -125,7 +125,7 @@ body{
 
 .right-part .banner{
     font-family: 'Open Sans', sans-serif; 
-    color: #4D4D4F;
+    color: #664229;
     margin-bottom: 2.2rem;
 }
 
@@ -158,7 +158,7 @@ body{
 .work-container .work .job-date{
     display: flex;
     justify-content: space-between;
-    color: #4D4D4F;
+    color: #664229;
     margin-bottom: 0.5rem;
     font-size: 0.7rem;
     font-weight: 500;
@@ -168,7 +168,7 @@ body{
     font-size: 0.9rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: #4D4D4F;
+    color: #664229;
 
 }
 
@@ -176,7 +176,7 @@ body{
     font-size: 0.7rem;
     font-weight: 500;
     margin-bottom: 0.5rem;
-    color: #4D4D4F;
+    color: #664229;
 }
 
 .references-container .references{
@@ -184,7 +184,7 @@ body{
     justify-content: space-between;
     margin-top: 1rem;
     font-family: 'Lato', sans-serif;
-    color: #4D4D4F;
+    color: #664229;
 }
 
 .references-container .references .name{
@@ -200,7 +200,7 @@ body{
 .references-container .references .phone{
     display: flex;
     font-size: 0.7rem;
-    color: #414042;
+    color: #664229;
 }
 .references-container .references .phone p{
     margin: 0.4rem 0;
@@ -216,5 +216,5 @@ body{
 
 .contact-container a{
     text-decoration: none;
-    color: #3D3D3D;
+    color: #664229;
 }
